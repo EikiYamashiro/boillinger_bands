@@ -1,1 +1,1 @@
-# boillinger_bands
+# Bollinger Bands
